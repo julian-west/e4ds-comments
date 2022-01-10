@@ -1,2 +1,2 @@
 # e4ds-comments
-Repository for hosting comments using https://utteranc.es/
+Repository for hosting comments for my [blog](https://engineeringfordatascience.com/) using https://utteranc.es/
